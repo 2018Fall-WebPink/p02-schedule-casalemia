@@ -1,0 +1,23 @@
+/*
+*Mia Casale 
+* 23 October, 2018 
+*Scheduling Table and My Schedule fot the First Semester and all the luches I have!!
+*/
+
+/* The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+background-color: lavender;
+}
+able,td,the { border: 1px solid white;}
+table {border-collapse: collapse; }
+
+
+thead{background-color: azure;}
+tfoot{background-color: lavenderblush;}
